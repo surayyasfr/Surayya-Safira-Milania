@@ -1,7 +1,9 @@
-
-
-
-
+//Kelompok 5 Quick Short
+//1. Gerry Dwi Utomo            H1051161043
+//2. Trianny Syantikha          H1051161040
+//3. Surayya Safira Milania     H1051171023
+//4. Fazar Dawamsyach           H1061171035
+//5. Firminus Febriatama Simban H1051171029
 public class QuickShort {
 
 	static void quickSort (int a[], int lo, int hi){
