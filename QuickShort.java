@@ -1,3 +1,7 @@
+
+
+
+
 public class QuickShort {
 
 	static void quickSort (int a[], int lo, int hi){
